@@ -1,0 +1,4 @@
+Nama File,File Hasil,Ukuran Awal,Ukuran Hasil Kompresi,Jenis Kompresi,Rasio Kompresi (%),MSE,PSNR (dB),Keterangan Kualitas
+01-manusia.jpg,01-manusia_compressed_q60.jpg,"4,274.61 KB","1,863.69 KB",JPEG Lossy,56.4,34.94,32.7,Perlu evaluasi visual manual
+02-pemandangan.jpg,02-pemandangan_compressed_q60.jpg,"3,903.40 KB","2,195.22 KB",JPEG Lossy,43.76,17.56,35.69,Perlu evaluasi visual manual
+03-teks.jpg,03-teks_compressed_q60.jpg,"4,748.37 KB","2,666.65 KB",JPEG Lossy,43.84,27.05,33.81,Perlu evaluasi visual manual
